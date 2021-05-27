@@ -2,6 +2,7 @@
 - 🎈 I’m 14 years old.
 - 🌍 I live in Finland.
 - 👀 I’m interested in developing and texturing.
+- 📅 I’m currently developing a fivem server.
 - 📫 How to reach me: Discord: JonttuJT#9693
 
 <!---
