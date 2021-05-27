@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @JonttuJT
+- 👋 Hi, I’m @JonttuJT.
+- 🎈 I’m 14 years old.
+- 🌍 I live in Finland.
 - 👀 I’m interested in developing and texturing.
 - 📫 How to reach me: Discord: JonttuJT#9693
 
