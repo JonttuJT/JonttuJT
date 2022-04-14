@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JonttuJT.
-- 🎈 I’m 14 years old.
-- 🌍 I live in Finland.
-- 👀 I’m interested in developing and texturing.
+- 🎈 I’m 15 years old.
+- 🌍 I'm from Finland.
+- 👀 I’m interested in developing and coding.
 - 📅 I’m currently developing a fivem server.
-- 📫 How to reach me: Discord: JonttuJT#9693
+- 📫 How to reach me: Discord: TonttuTJ#5193
 
 <!---
 JonttuJT/JonttuJT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
